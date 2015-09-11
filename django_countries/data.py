@@ -164,6 +164,7 @@ COUNTRIES = {
     "KI": _("Kiribati"),
     "KP": _("Korea (the Democratic People's Republic of)"),
     "KR": _("Korea (the Republic of)"),
+    "XK": _("Kosovo"),
     "KW": _("Kuwait"),
     "KG": _("Kyrgyzstan"),
     "LA": _("Lao People's Democratic Republic"),
